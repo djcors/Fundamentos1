@@ -11,7 +11,7 @@ int main(){
     cin >> lab;
     cout << "Ingrese nota parcial 2\n";
     cin >> np2;
-    def = ns*0.4+np1*0.1+lab*0.1+np2*0.3/4;
+    def = (ns*0.4)+(np1*0.2)+(lab*0.1)+(np2*0.3);
     cout << "Su nota definitiva es: " << def << "\n";
     return 0;
 }
