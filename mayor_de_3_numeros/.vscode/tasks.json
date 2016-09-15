@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "command": "g++",
+    "isShellCommand": true,
+    "showOutput": "always",
+    "args": ["-g", "mayor_de_3_numeros.cpp", "-o", "mayor_de_3_numeros"]
+}
